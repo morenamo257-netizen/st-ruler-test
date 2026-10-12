@@ -1,0 +1,9 @@
+{
+  "display_name": "Ruler Test",
+  "loading_order": 99,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "author": "you",
+  "version": "0.0.1"
+}
